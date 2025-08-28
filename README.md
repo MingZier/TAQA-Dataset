@@ -40,7 +40,7 @@ Pytorch >=1.8.0
 ### Dataset Preparation
 **1.TAQA dataset**
 
-If the article is accepted for publication, you can download our prepared TAQA dataset from ["Google Drive"](https://drive.google.com/file/d/10iRzfI9gVZxBqXKEEMcpNLlAR0-MrmZQ/view?usp=drive_link) . Then, please move the uncompressed data folder to `TAQA/data/frames`. We used the I3D backbone pretrained on Kinetics([Google Drive](https://drive.google.com/file/d/1M_4hN-beZpa-eiYCvIE7hsORjF18LEYU/)).
+You can request access to the dataset by completing the provided protocol ["Google Drive"](https://drive.google.com/file/d/10iRzfI9gVZxBqXKEEMcpNLlAR0-MrmZQ/view?usp=drive_link) and sending us an email. Then, please move the uncompressed data folder to `TAQA/data/frames`. We used the I3D backbone pretrained on Kinetics([Google Drive](https://drive.google.com/file/d/1M_4hN-beZpa-eiYCvIE7hsORjF18LEYU/)).
 
 **2.MTL-AQA dataset**(["Google Drive"](https://drive.google.com/file/d/1T7bVrqdElRLoR3l6TxddFQNPAUIgAJL7/))
 
